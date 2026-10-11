@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Gwenaël 👋
 
-<!--
-**GjineKo/GjineKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇪 Java Software Engineer based in Belgium.
 
-Here are some ideas to get you started:
+I work at **Sopra Steria**, currently on a project for **BNP Paribas Fortis**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about backend engineering, software architecture, and exploring how AI agents can improve the way we build software.
+
+## 🛠️ Tech Stack
+
+- **Backend:** Java, Spring Boot, REST APIs
+- **Databases:** PostgreSQL
+- **Tools & Cloud:** Git, Docker, AWS
+- **Currently exploring:** Agentic AI, LLM orchestration, AI-assisted development
+
+## 🚀 What I'm up to
+
+- Deepening my knowledge of Java and software architecture
+- Experimenting with AI agents and developer tooling
+- Building side projects and learning along the way
+- Getting more involved in the Java community
+
+## 📫 Let's connect
+
+Always happy to talk about Java, backend development, and AI!
